@@ -173,36 +173,7 @@ A productivity application that transforms real-world goals and tasks into an RP
 
 ---
 
-## 📊 GitHub Activity
 
-<div align="center">
-
-<a href="https://github.com/Amritansu007">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Amritansu007&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" />
-</a>
-
-<a href="https://github.com/Amritansu007">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritansu007&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
-</a>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Amritansu007&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Amritansu007&theme=github-dark&hide_border=true&area=true"
-  width="95%"
-/>
-
-</div>
 
 ---
 
