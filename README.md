@@ -1,24 +1,254 @@
-# 💫 About Me:
-I'm a Software Engineering Student who loves to learn new things and explore.<br>Always looking forward to collaborate and find solutions to real world problems.<br>Currently working on improving my full stack skills and starting my AI/ML journey.
+<div align="center">
 
+# 👋 Hi, I'm Amritansu Singh
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amritansu-singh-19b33736b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amritansusingh07@gmail.com) 
+### Computer Engineering Student • Full-Stack Developer • AI/ML Explorer
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Amritansu007&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Amritansu007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Amritansu007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p>
+  Building full-stack applications, experimenting with AI/ML,
+  and turning ideas into real-world products.
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Amritansu007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p>
+  <a href="https://github.com/Amritansu007">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/amritansu-singh-19b33736b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:amritansusingh07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Amritansu007&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://komarev.com/ghpvc/?username=Amritansu007&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Amritansu007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+I'm a Computer Engineering student who enjoys building things, learning new technologies, and solving real-world problems through code.
+
+I'm particularly interested in:
+
+- 🚀 Full-stack web development
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧩 Problem solving and Data Structures
+- 🌐 Building practical, user-focused applications
+- 🔬 Exploring new technologies through projects
+
+I believe the best way to learn is to **build, experiment, break things, and build them better.**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,kotlin" />
+</p>
+
+### 🌐 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
+
+### 🤖 AI / Data
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,opencv" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="50" />
+</p>
+
+### 🗄️ Database & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,supabase" />
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Face ID + Blockchain Verification
+
+**Computer Vision × Reverse Search × Blockchain**
+
+An end-to-end pipeline that detects a face, verifies a real matching social media post through reverse image search, and records the verified result on the Ethereum Sepolia testnet.
+
+**My Contribution — Part C**
+
+Designed and implemented the blockchain component for hashing, smart-contract storage, transaction verification, and on-chain record validation.
+
+**Tech Stack**
+
+`Python` `Ethereum` `Solidity` `Web3` `Sepolia`
+
+🔗 [Repository](https://github.com/Amritansu007/Face-ID-Blockchain-Verification)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Stratify
+
+**Corporate AI Strategy Advisor**
+
+AI-powered platform for assessing AI readiness, predicting business outcomes, benchmarking, and generating strategic insights.
+
+**My Contribution — Frontend**
+
+Developed the entire frontend, including the dashboard, assessment flow, visualizations, benchmarking, reports, AI assistant, authentication UI, and responsive design.
+
+**Tech Stack**
+
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Recharts` `Framer Motion`
+
+🔗 [Live Demo](https://stratify-livid.vercel.app) · [Repository](https://github.com/Amritansu007/Stratify)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ✋ Real Hand Gesture Recognition
+
+**Computer Vision Project**
+
+A real-time hand gesture recognition application using computer vision and image processing.
+
+**Tech Stack**
+
+`Python` `OpenCV`
+
+🔗 [Repository](https://github.com/Amritansu007/Real-Hand-Gesture-Recognition)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎮 Life-RPG
+
+**Gamified Productivity Platform**
+
+A productivity application that transforms real-world goals and tasks into an RPG-style experience with progression, quests, rewards, and themes.
+
+**Tech Stack**
+
+`Next.js` `React` `TypeScript` `Supabase`
+
+🔗 [Live Demo](http://life-rpg-alpha-vert.vercel.app/) · [Repository](https://github.com/Amritansu007/Life-RPG)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌱 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0F172A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend%20Development-1F2937?style=for-the-badge"/>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/Amritansu007">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Amritansu007&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" />
+</a>
+
+<a href="https://github.com/Amritansu007">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritansu007&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Amritansu007&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Amritansu007&theme=github-dark&hide_border=true&area=true"
+  width="95%"
+/>
+
+</div>
+
+---
+
+## 💡 What I'm Interested In
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🚀 Full-Stack Development
+
+Building modern and scalable web applications.
+
+</td>
+
+<td align="center" width="50%">
+
+### 🤖 Artificial Intelligence
+
+Exploring AI, ML and intelligent applications.
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 🧠 Data Structures
+
+Improving problem-solving and algorithmic thinking.
+
+</td>
+
+<td align="center" width="50%">
+
+### 🌐 Real-World Applications
+
+Turning ideas into useful products and solutions.
+
+</td>
+</tr>
+</table>
+🤝 Let's Connect
+
+I'm always interested in collaborating on interesting software,
+AI/ML, and open-source projects.
+
+<div align="center"> <a href="https://www.linkedin.com/in/amritansu-singh-19b33736b/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:amritansusingh07@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Amritansu007"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> <br> <div align="center">
+⭐ Thanks for visiting my profile!
